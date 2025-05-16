@@ -6,7 +6,7 @@
 
 ### 🌐 Confira o site funcionando
 
-👉 [Clique aqui para ver o site no ar!](https://port-folio-1-0-qso27ylh0-lucas-silvas-projects-a08db18e.vercel.app)
+👉 [Clique aqui para ver o site no ar!](port-folio-1-0-qso27ylh0-lucas-silvas-projects-a08db18e.vercel.app)
 
 ---
 
@@ -26,9 +26,9 @@ O código está privado por questões de segurança e direitos autorais.
 
 Se quiser falar comigo, é só mandar um alô!
 
-- WhatsApp: [link do WhatsApp]
-- LinkedIn: [link do LinkedIn]
-- Email: seuemail@email.com
+- WhatsApp: 
+- LinkedIn: 
+- Email: lucassilva1710yahoo.com
 
 ---
 

@@ -6,7 +6,7 @@
 
 ### 🌐 Confira o site funcionando
 
-👉 [Clique aqui para ver o site no ar!](port-folio-1-0-qso27ylh0-lucas-silvas-projects-a08db18e.vercel.app)
+👉 [Clique aqui para ver o site no ar!](https://port-folio-1-0-git-main-lucas-silvas-projects-a08db18e.vercel.app/)
 
 ---
 

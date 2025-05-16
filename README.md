@@ -2,7 +2,8 @@
 
 
 
-🚀 [Clique aqui para ver o site funcionando](port-folio-1-0-two.vercel.app)(port-folio-1-0-qso27ylh0-lucas-silvas-projects-a08db18e.vercel.app)
+🚀 [Clique aqui para ver o site funcionando](https://port-folio-1-0-qso27ylh0-lucas-silvas-projects-a08db18e.vercel.app)
+
 
 Este projeto foi desenvolvido usando Html + Css e JavaScript.
 

@@ -28,13 +28,13 @@ O código está privado por questões de segurança e direitos autorais.
 
 Se quiser falar comigo, entre em contato!
 
-- 💬 **WhatsApp:** 👉 [Clique aqui para bater um papo!](https://port-folio-1-0-git-main-lucas-silvas-projects-a08db18e.vercel.app/)
+- 💬 **WhatsApp:** 👉 [Clique aqui para bater um papo!](https://www.linkedin.com/in/lucas-silva-ab6360365/)
 - 💼 **LinkedIn:** 👉 [Dê uma olhada no meu perfil profissional](https://www.linkedin.com/in/lucas-silva-ab6360365/)
 - ✉️ **E-mail:** 👉 [Clique aqui para me enviar um e-mail](mailto:lucassilva1710@yahoo.com?subject=Contato%20via%20portfólio&body=Olá%20Lucas,%20gostaria%20de%20falar%20com%20você%20sobre...)
 
 
 
-- WhatsApp: 👉 [Clique aqui para entra em contato](https://port-folio-1-0-git-main-lucas-silvas-projects-a08db18e.vercel.app/)
+- WhatsApp: 👉 [Clique aqui para entra em contato](https://www.linkedin.com/in/lucas-silva-ab6360365/)
 - LinkedIn: 👉 [Clique para ver meu Linkedin](https://www.linkedin.com/in/lucas-silva-ab6360365/)
 - Email: 👉 [Clique para entrar em contato](https://mail.yahoo.com/d/folders/1?.intl=br&.lang=pt-BR)
 

@@ -2,8 +2,6 @@
 
 👋 Seja bem-vindo ao meu espaço na web! Aqui você encontrará meus projetos elaborados com dedicação, utilizando as tecnologias HTML, CSS e JavaScript. 💻✨
 
-Meu objetivo é aprimorar continuamente minhas habilidades para me tornar um desenvolvedor full stack altamente capacitado. 🚀✨
-
 ---
 
 ### 🌐 Confira o site funcionando
@@ -23,8 +21,6 @@ Este portfólio foi desenvolvido para apresentar minhas competências e projetos
 O código-fonte deste projeto está privado para preservar sua segurança e integridade intelectual. Caso deseje mais informações, sinta-se à vontade para entrar em contato.
 
 ---
-
-### 📫 Contato
 
 ## 📬 Entre em Contato Comigo
 

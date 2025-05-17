@@ -1,7 +1,7 @@
 # 🚀 Meu Portfólio
 
 👋 Seja bem-vindo ao meu espaço na web! Aqui você encontrará meus projetos elaborados com dedicação, utilizando as tecnologias HTML, CSS e JavaScript. 💻✨
-
+Meu objetivo é aprimorar continuamente minhas habilidades para me tornar um desenvolvedor full stack altamente capacitado. 🚀✨
 ---
 
 ### 🌐 Confira o site funcionando

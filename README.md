@@ -1,5 +1,19 @@
 # 🚀 Meu Portfólio
 
+
+👋 Olá! Sou Lucas Ferreira da Silva, desenvolvedor Front-End em formação. Apaixonado por tecnologia, design digital e tudo que envolve criatividade e código 🎨👨‍💻
+
+🚀 Tenho estudado HTML, CSS, JavaScript e estou começando a trabalhar com React ⚛️. Sempre em busca de aprender mais e aplicar na prática com projetos pessoais.
+
+📁 Alguns dos meus projetos:
+- README-Port-folio-1.0: foco em responsividade e identidade visual
+- Port-folio-1.0: melhorias progressivas e boas práticas
+- Mario (privado): experimento com jogos clássicos 🎮
+
+📚 Buscando oportunidades para crescer na área e colaborar com pessoas incríveis!  
+🔗 Vamos nos conectar!
+
+
 👋 Seja bem-vindo ao meu espaço na web! Aqui você encontrará meus projetos elaborados com dedicação, utilizando as tecnologias HTML, CSS e JavaScript. 💻✨
 
 - Meu objetivo é aprimorar continuamente minhas habilidades para me tornar um desenvolvedor full stack altamente capacitado. 🚀✨

@@ -26,9 +26,9 @@ O código está privado por questões de segurança e direitos autorais.
 
 Se quiser falar comigo, é só mandar um alô!
 
-- WhatsApp: 
-- LinkedIn: 
-- Email: lucassilva1710yahoo.com
+- WhatsApp: 👉 [Clique aqui para entra em contato](https://port-folio-1-0-git-main-lucas-silvas-projects-a08db18e.vercel.app/)
+- LinkedIn: 👉 [Clique para ver meu Linkedin](https://www.linkedin.com/in/lucas-silva-ab6360365/)
+- Email: lucassilva1710yahoo.com👉 [Clique para entrar em contato](https://mail.yahoo.com/d/folders/1?.intl=br&.lang=pt-BR)
 
 ---
 

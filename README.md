@@ -1,6 +1,6 @@
 # 🚀 Meu Portfólio
 
-> Seja bem-vindo ao meu cantinho na web! Aqui você encontra meus projetos desenvolvidos com ❤️ usando **HTML**, **CSS** e **JavaScript**.
+👋 Seja bem-vindo ao meu espaço na web! Aqui você encontrará meus projetos desenvolvidos com dedicação, utilizando as tecnologias HTML, CSS e JavaScript. 💻✨
 
 ---
 
@@ -12,7 +12,7 @@
 
 ### 📚 Sobre o projeto
 
-Este portfólio foi feito para mostrar minhas habilidades e projetos favoritos. Tudo criado do zero, com muito código e café ☕.
+Este portfólio foi desenvolvido para apresentar minhas competências e projetos selecionados. Cada detalhe foi cuidadosamente elaborado do zero, refletindo dedicação e profissionalismo. ⚙️✨
 
 ---
 

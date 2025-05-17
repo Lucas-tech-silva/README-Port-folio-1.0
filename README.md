@@ -28,6 +28,9 @@ Se quiser falar comigo, é só mandar um alô!
 
 - WhatsApp: 👉 [Clique aqui para entra em contato](https://port-folio-1-0-git-main-lucas-silvas-projects-a08db18e.vercel.app/)
 - LinkedIn: 👉 [Clique para ver meu Linkedin](https://www.linkedin.com/in/lucas-silva-ab6360365/)
+- ✉️ [Me envie um e-mail](mailto:lucassilva1710@yahoo.com?subject=Contato%20via%20GitHub&body=Olá%20Lucas,%20vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20falar%20com%20você.)
+
+
 - Email: lucassilva1710yahoo.com👉 [Clique para entrar em contato](https://mail.yahoo.com/d/folders/1?.intl=br&.lang=pt-BR)
 
 ---

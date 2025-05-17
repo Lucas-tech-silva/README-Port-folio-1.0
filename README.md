@@ -18,7 +18,7 @@ Este portfólio foi desenvolvido para apresentar minhas competências e projetos
 
 ### 🔐 Importante
 
-O código está privado por questões de segurança e direitos autorais.
+O código-fonte deste projeto está privado para preservar sua segurança e integridade intelectual. Caso deseje mais informações, sinta-se à vontade para entrar em contato.
 
 ---
 
@@ -28,15 +28,9 @@ O código está privado por questões de segurança e direitos autorais.
 
 Se quiser falar comigo, entre em contato!
 
-- 💬 **WhatsApp:**  👉 [Clique aqui e entre em contato!](https://wa.me/5511930343236?text=Ol%C3%A1%2C%20Lucas%20gostaria%20de%20falar%20com%20voc%C3%AA%20%3F)
-- 💼 **LinkedIn:**  👉 [Dê uma olhada no meu perfil profissional](https://www.linkedin.com/in/lucas-silva-ab6360365/)
-✉️ [Clique aqui para me enviar um e-mail](mailto:lucassilva1710@yahoo.com?subject=Olá%20Lucas,%20vi%20seu%20perfil%20no%20LinkedIn&body=Gostaria%20de%20falar%20com%20você%20sobre...)
-
----
-
-- WhatsApp: 👉 [Clique aqui para entra em contato](https://wa.me/5511930343236?text=Ol%C3%A1%2C%20Lucas%20gostaria%20de%20falar%20com%20voc%C3%AA%20%3F)
-- LinkedIn: 👉 [Clique para ver meu Linkedin](https://www.linkedin.com/in/lucas-silva-ab6360365/)
-- Email: 👉 [Clique para entrar em contato](https://mail.yahoo.com/d/compose/7629318242?.intl=br&.lang=pt-BR)
+- 💬  **WhatsApp:**  👉 [Clique aqui e entre em contato!](https://wa.me/5511930343236?text=Ol%C3%A1%2C%20Lucas%20gostaria%20de%20falar%20com%20voc%C3%AA%20%3F)
+- 💼  **LinkedIn:**  👉 [Dê uma olhada no meu perfil profissional](https://www.linkedin.com/in/lucas-silva-ab6360365/)
+- 📧  **E-mail:**    👉 [Clique aqui para me enviar um e-mail](https://mail.yahoo.com/d/compose/7629318242?.intl=br&.lang=pt-BR)
 
 ---
 
